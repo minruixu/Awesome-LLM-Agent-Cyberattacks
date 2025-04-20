@@ -8,17 +8,16 @@
 4. From Sands to Mansions- Towards Automated Cyberattack Emulation with Classical Planning and Large Language Models.pdf
 5. CIPHER- Cybersecurity Intelligent Penetration-Testing Helper for Ethical Researcher.pdf
 6. Hacking, The Lazy Way- LLM Augmented Pentesting.pdf
-7. AUTOPENBENCH- BENCHMARKING GENERATIVE AGENTS FOR PENETRATION TESTING.pdf
-8. AutoPT- How Far Are We from the End2End Automated Web Penetration Testing?.pdf
-9. AI-Augmented Ethical Hacking- A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments.pdf
-10. Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks.pdf
-11. PenTest++- Elevating Ethical Hacking with AI and Automation.pdf
-12. Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing.pdf
-13. RapidPen- Fully Automated IP-to-Shell Penetration Testing with LLM-based.pdf
-14. BreachSeek- A Multi-Agent Automated Penetration Tester.pdf
-15. Language agents as hackers Evaluating cybersecurity skills with capture the flag.pdf
-16. A Unified Modeling Framework for Automated Penetration Testing.pdf
-17. ARACNE- An LLM-Based Autonomous Shell Pentesting Agent.pdf
+7. AutoPT- How Far Are We from the End2End Automated Web Penetration Testing?.pdf
+8. AI-Augmented Ethical Hacking- A Practical Examination of Manual Exploitation and Privilege Escalation in Linux Environments.pdf
+9. Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks.pdf
+10. PenTest++- Elevating Ethical Hacking with AI and Automation.pdf
+11. Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing.pdf
+12. RapidPen- Fully Automated IP-to-Shell Penetration Testing with LLM-based.pdf
+13. BreachSeek- A Multi-Agent Automated Penetration Tester.pdf
+14. Language agents as hackers Evaluating cybersecurity skills with capture the flag.pdf
+15. A Unified Modeling Framework for Automated Penetration Testing.pdf
+16. ARACNE- An LLM-Based Autonomous Shell Pentesting Agent.pdf
 
 ## Phishing / Social Engineering / Vishing
 
@@ -95,6 +94,23 @@
 5. SecBench- A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity.pdf
 6. PRIMUS- A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training.pdf
 7. A Framework for Evaluating Emerging Cyberattack Capabilities of AI.pdf
+8. AUTOPENBENCH- BENCHMARKING GENERATIVE AGENTS FOR PENETRATION TESTING.pdf
+9. CmdCaliper- A Semantic-Aware Command-Line Embedding Model and Dataset for Security Research.pdf
+10. CyberMetric A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge.pdf 
+11. NYU CTF Bench A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security.pdf 
+12. CYBERSECEVAL 3 Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models.pdf 
+13. RedCode Risky Code Execution and Generation Benchmark for Code Agents.pdf 
+14. R-Judge Benchmarking Safety Risk Awareness for LLM Agents.pdf 
+15. HarmBench A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal.pdf 
+16. Purple Llama CYBERSECEVAL A Secure Coding Benchmark for Language Models.pdf 
+17. CTIBench A Benchmark for Evaluating LLMs in Cyber Threat Intelligence.pdf 
+18. AGENTHARM- A BENCHMARK FOR MEASURING HARMFULNESS OF LLM AGENTS.pdf 
+19. AGENT SECURITY BENCH (ASB)- FORMALIZING AND BENCHMARKING ATTACKS AND DEFENSES IN LLM-BASED AGENTS.pdf 
+20. SECURE- Benchmarking Large Language Models for Cybersecurity.pdf 
+21. CVE-Bench- A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities.pdf 
+22. Cybench- A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models.pdf 
+23. CYBERSECEVAL 2- A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models.pdf 
+24. AI Cyber Risk Benchmark- Automated Exploitation Capabilities.pdf 
 
 ## IoT / Cloud / Network / Infrastructure Security
 
@@ -113,10 +129,9 @@
 3. TRANSFORMING COMPUTER SECURITY AND PUBLIC TRUST THROUGH THE EXPLORATION OF FINE-TUNING LARGE LANGUAGE MODELS.pdf
 4. CYBERPAL.AI- EMPOWERING LLMS WITH EXPERTDRIVEN CYBERSECURITY INSTRUCTIONS.pdf
 5. Emerging Security Challenges of Large Language Models.pdf
-6. CmdCaliper- A Semantic-Aware Command-Line Embedding Model and Dataset for Security Research.pdf
-7. MoRSE- Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation.pdf
-8. On Large Language Models in National Security Applications.pdf
-9. Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities.pdf
+6. MoRSE- Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation.pdf
+7. On Large Language Models in National Security Applications.pdf
+8. Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities.pdf
 
 ## Threat Modeling / Risk Analysis
 

@@ -1,4 +1,4 @@
-# Large Language Model-based Agent for Autonomous Cyberattacks 
+# Large Language Model-based Agent for Autonomous Cyberattacks
 
 ## Penetration Testing / Offensive Security / Hacking / Red Teaming
 
@@ -14,10 +14,9 @@
 10. PenTest++- Elevating Ethical Hacking with AI and Automation.pdf
 11. Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing.pdf
 12. RapidPen- Fully Automated IP-to-Shell Penetration Testing with LLM-based.pdf
-13. BreachSeek- A Multi-Agent Automated Penetration Tester.pdf
-14. Language agents as hackers Evaluating cybersecurity skills with capture the flag.pdf
-15. A Unified Modeling Framework for Automated Penetration Testing.pdf
-16. ARACNE- An LLM-Based Autonomous Shell Pentesting Agent.pdf
+13. Evaluating Large Language Models' Capability to Conduct Cyberattacks On Embedded Devices.pdf
+14. AttackLLM- LLM-based Attack Pattern Generation for an Industrial Control System.pdf
+15. Building Cyber Attack Trees with the Help of My LLM? A Mixed Method Study.pdf
 
 ## Phishing / Social Engineering / Vishing
 
@@ -27,8 +26,7 @@
 4. The Shadow of Fraud- The Emerging Danger of AI-powered Social Engineering and its Possible Cure.pdf
 5. On the Feasibility of Fully AI-automated Vishing Attacks.pdf
 6. Adapting to Cyber Threats- A Phishing Evolution Network (PEN) Framework for Phishing Generation and Analyzing Evolution Patterns using Large Language Models.pdf
-7. Anatomy of an AI-powered malicious social botnet.pdf
-8. PhishAgent- A Robust Multimodal Agent for Phishing Webpage Detection.pdf
+7. Cyberattacks Using ChatGPT- Exploring Malicious Content Generation Through Prompt Engineering.pdf
 
 ## Malware Analysis / Deobfuscation / Malicious Services
 
@@ -44,8 +42,7 @@
 2. FINETUNING LARGE LANGUAGE MODELS FOR VULNERABILITY DETECTION.pdf
 3. Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models.pdf
 4. Prompting Is All You Need- Automated Android Bug Replay with Large Language Models.pdf
-5. Assessing Cybersecurity Vulnerabilities in Code Large Language Models.pdf
-6. CVE-LLM - Automatic vulnerability evaluation in medical device industry using large language models.pdf
+5. IoT Vulnerability Detection using Featureless LLM CyBert Model.pdf
 
 ## Threat Intelligence / Attack Attribution / Investigation / Knowledge Graphs
 
@@ -70,8 +67,8 @@
 19. IntellBot- Retrieval Augmented LLM Chatbot for Cyber Threat Knowledge Delivery.pdf
 20. LABELING NIDS RULES WITH MITRE ATT&CK TECHNIQUES- MACHINE LEARNING VS. LARGE LANGUAGE MODELS.pdf
 21. CyLens- Towards Reinventing Cyber Threat Intelligence in the Paradigm of Agentic Large Language Models.pdf
-22. Using LLMs to Automate Threat Intelligence Analysis Workflows in Security Operation Centers.pdf
-23. AttackER- Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset.pdf
+22. CTIKG- LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence.pdf
+23. News-Based Cyber Attack Impact Assessment- Evaluating the Performance of Large Language Models.pdf
 
 ## Defense / Countermeasures / Honeypots / Safety
 
@@ -81,36 +78,17 @@
 4. LLM Honeypot- Leveraging Large Language Models as Advanced Interactive Honeypot Systems.pdf
 5. LLMPot- Automated LLM-based Industrial Protocol and Physical Process Emulation for ICS Honeypots.pdf
 6. Act as a Honeytoken Generator! An Investigation into Honeytoken Generation with Large Language Models.pdf
-7. LLM in the Shell- Generative Honeypots.pdf
-8. LLM Agent Honeypot- Monitoring AI Hacking Agents in the Wild.pdf
-9. Implementing Automated Safety Circuit Breakers of Large Language Models for Prompt Integrity.pdf
+7. Revolutionizing_Cyber_Threat_Detection_w.pdf
+8. Design and evaluation of an Autonomous Cyber Defence agent using DRL and an augmented LLM.pdf
+9. MAD-LLM- A Novel Approach for Alert-Based Multi-stage Attack Detection via LLM.pdf
 
 ## Security Benchmarking / Evaluation Frameworks / Datasets
 
-1. ATTACKQA- DEVELOPMENT AND ADOPTION OF A DATASET FOR ASSISTING CYBERSECURITY OPERATIONS USING FINE-TUNED AND OPEN-SOURCE LLMS.pdf
-2. SecQA- A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security.pdf
-3. CS-Eval- A Comprehensive Large Language Model Benchmark for CyberSecurity.pdf
-4. AttackSeqBench- Benchmarking Large Language Models' Understanding of Sequential Patterns in Cyber Attacks.pdf
-5. SecBench- A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity.pdf
-6. PRIMUS- A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training.pdf
-7. A Framework for Evaluating Emerging Cyberattack Capabilities of AI.pdf
-8. AUTOPENBENCH- BENCHMARKING GENERATIVE AGENTS FOR PENETRATION TESTING.pdf
-9. CmdCaliper- A Semantic-Aware Command-Line Embedding Model and Dataset for Security Research.pdf
-10. CyberMetric A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge.pdf 
-11. NYU CTF Bench A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security.pdf 
-12. CYBERSECEVAL 3 Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models.pdf 
-13. RedCode Risky Code Execution and Generation Benchmark for Code Agents.pdf 
-14. R-Judge Benchmarking Safety Risk Awareness for LLM Agents.pdf 
-15. HarmBench A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal.pdf 
-16. Purple Llama CYBERSECEVAL A Secure Coding Benchmark for Language Models.pdf 
-17. CTIBench A Benchmark for Evaluating LLMs in Cyber Threat Intelligence.pdf 
-18. AGENTHARM- A BENCHMARK FOR MEASURING HARMFULNESS OF LLM AGENTS.pdf 
-19. AGENT SECURITY BENCH (ASB)- FORMALIZING AND BENCHMARKING ATTACKS AND DEFENSES IN LLM-BASED AGENTS.pdf 
-20. SECURE- Benchmarking Large Language Models for Cybersecurity.pdf 
-21. CVE-Bench- A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities.pdf 
-22. Cybench- A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models.pdf 
-23. CYBERSECEVAL 2- A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models.pdf 
-24. AI Cyber Risk Benchmark- Automated Exploitation Capabilities.pdf 
+1. AUTOPENBENCH- BENCHMARKING GENERATIVE AGENTS FOR PENETRATION TESTING.pdf
+2. ATTACKQA- DEVELOPMENT AND ADOPTION OF A DATASET FOR ASSISTING CYBERSECURITY OPERATIONS USING FINE-TUNED AND OPEN-SOURCE LLMS.pdf
+3. SecQA- A Concise Question-Answering Dataset for Evaluating Large Language Models in Computer Security.pdf
+4. CmdCaliper- A Semantic-Aware Command-Line Embedding Model and Dataset for Security Research.pdf
+5. Catastrophic Cyber Capabilities Benchmark (3CB)- Robustly Evaluating LLM Agent Cyber Offense Capabilities.pdf
 
 ## IoT / Cloud / Network / Infrastructure Security
 
@@ -121,6 +99,10 @@
 5. MistralBSM- Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection.pdf
 6. Critical Infrastructure Protection- Generative AI, Challenges, and Opportunities.pdf
 7. Enhancing Network Management Using Code Generated by Large Language Models.pdf
+8. PLLM-CS- Pre-trained Large Language Model (LLM) for cyber threat detection in satellite networks.pdf
+9. Net-GPT- A LLM-Empowered Man-in-the-Middle Chatbot for Unmanned Aerial Vehicle.pdf
+10. Large Language Model for Smart Inverter Cyber-Attack Detection via Textual Analysis of Volt:VAR Commands.pdf
+11. Exploring LLM-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground Integrated Network.pdf
 
 ## General AI/LLM Security, Privacy & Capabilities
 
@@ -131,7 +113,11 @@
 5. Emerging Security Challenges of Large Language Models.pdf
 6. MoRSE- Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation.pdf
 7. On Large Language Models in National Security Applications.pdf
-8. Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities.pdf
+8. Autonomous Cyberattack with Security-Augmented Generative Artificial Intelligence.pdf
+9. Large Language Models in Cybersecurity- State-of-the-Art.pdf
+10. Emerging Cyber Attack Risks of Medical AI Agents.pdf
+11. Application of Large Language Models for Assessing Parameters and Possible Scenarios of Cyberattacks on Information and Communication Systems.pdf
+12. a-practical-guide-to-building-agents.pdf
 
 ## Threat Modeling / Risk Analysis
 
@@ -140,32 +126,31 @@
 3. Threat Modelling and Risk Analysis for Large Language Model (LLM)-Powered Applications.pdf
 
 ## Cybersecurity Education
+*(No new papers identified)*
 
-1. Exploring Large Language Model-Powered Pedagogical Approaches to Cybersecurity Education.pdf
-2. Ontology-Aware RAG for Improved Question-Answering in Cybersecurity Education.pdf
+## Surveys / Reviews
 
-## Surveys / Reviews (from `survey/` directory)
-
-1. From Vulnerabilities to Remediation- A Systematic Literature Review of LLMs in Code Security.pdf
-2. Frontier AI's Impact on the Cybersecurity Landscape.pdf
-3. A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences- Opportunities and Directions.pdf
-4. SoK- Mind the Gap—On Closing the Applicability Gap in Automated Vulnerability Detection.pdf
-5. Generative AI and Large Language Models for Cyber Security All Insights You Need.pdf
-6. SoK- A Review of Cross-Chain Bridge Hacks in 2023.pdf
-7. Large Language Model-Based Agents for Software Engineering A Survey.pdf
-8. Large Language Model for Vulnerability Detection and Repair Literature Review and the Road Ahead.pdf
-9. Against The Achilles' Heel A Survey on Red Teaming for Generative Models.pdf
-10. A_Survey_of_Adversarial_Attack_and_Defense_Methods_for_Malware_Classification_in_Cyber_Security.pdf
-11. Security_of_Wide-Area_Monitoring_Protection_and_Control_WAMPAC_Systems_of_the_Smart_Grid_A_Survey_on_Challenges_and_Opportunities.pdf
-12. Cybersecurity_of_Satellite_Communications_Systems_A_Comprehensive_Survey_of_the_Space_Ground_and_Links_Segments.pdf
-13. Secure Robotics Navigating Challenges at the Nexus of Safety, Trust, and Cybersecurity in Cyber-Physical Systems.pdf
-14. Security Threats, Countermeasures, and Challenges of Digital Supply Chains.pdf
-15. Cyberattacks and Countermeasures for In-Vehicle Networks.pdf
-16. How_Machine_Learning_Changes_the_Nature_of_Cyberattacks_on_IoT_Networks_A_Survey.pdf
-17. A Survey of IoT-Enabled Cyberattacks Assessing Attack Paths to Critical Infrastructures and Services.pdf
-18. A Survey of Cyber Attacks on Cyber Physical Systems Recent Advances and Challenges.pdf
-19. Generative AI in Cybersecurity A Comprehensive Review of LLM Applications and Vulnerabilities.pdf
-20. When LLMs meet cybersecurity a systematic literature review.pdf
+1. survey/An_Extended_Review_LLM_Prompt_Engineering_in_Cyber_Defense.pdf
+2. survey/From Vulnerabilities to Remediation- A Systematic Literature Review of LLMs in Code Security.pdf
+3. survey/Frontier AI's Impact on the Cybersecurity Landscape.pdf
+4. A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences- Opportunities and Directions.pdf
+5. survey/SoK- Mind the Gap—On Closing the Applicability Gap in Automated Vulnerability Detection.pdf
+6. survey/Generative AI and Large Language Models for Cyber Security All Insights You Need.pdf
+7. survey/SoK- A Review of Cross-Chain Bridge Hacks in 2023.pdf
+8. survey/Large Language Model-Based Agents for Software Engineering A Survey.pdf
+9. survey/Large Language Model for Vulnerability Detection and Repair Literature Review and the Road Ahead.pdf
+10. survey/Against The Achilles' Heel A Survey on Red Teaming for Generative Models.pdf
+11. survey/A_Survey_of_Adversarial_Attack_and_Defense_Methods_for_Malware_Classification_in_Cyber_Security.pdf
+12. survey/Security_of_Wide-Area_Monitoring_Protection_and_Control_WAMPAC_Systems_of_the_Smart_Grid_A_Survey_on_Challenges_and_Opportunities.pdf
+13. survey/Cybersecurity_of_Satellite_Communications_Systems_A_Comprehensive_Survey_of_the_Space_Ground_and_Links_Segments.pdf
+14. survey/Secure Robotics Navigating Challenges at the Nexus of Safety, Trust, and Cybersecurity in Cyber-Physical Systems.pdf
+15. survey/Security Threats, Countermeasures, and Challenges of Digital Supply Chains.pdf
+16. survey/Cyberattacks and Countermeasures for In-Vehicle Networks.pdf
+17. survey/How_Machine_Learning_Changes_the_Nature_of_Cyberattacks_on_IoT_Networks_A_Survey.pdf
+18. survey/A Survey of IoT-Enabled Cyberattacks Assessing Attack Paths to Critical Infrastructures and Services.pdf
+19. survey/A Survey of Cyber Attacks on Cyber Physical Systems Recent Advances and Challenges.pdf
+20. survey/Generative AI in Cybersecurity A Comprehensive Review of LLM Applications and Vulnerabilities.pdf
+21. survey/When LLMs meet cybersecurity a systematic literature review.pdf
 
 # Network Perspective Categorization
 
@@ -192,6 +177,7 @@
 
 ### Smart Grid
 1. survey/Security_of_Wide-Area_Monitoring_Protection_and_Control_WAMPAC_Systems_of_the_Smart_Grid_A_Survey_on_Challenges_and_Opportunities.pdf
+2. Large Language Model for Smart Inverter Cyber-Attack Detection via Textual Analysis of Volt:VAR Commands.pdf
 
 ### Quantum Networks
 *(No specific papers identified from titles)*
@@ -207,9 +193,13 @@
 4. LLMPot- Automated LLM-based Industrial Protocol and Physical Process Emulation for ICS Honeypots.pdf
 5. survey/How_Machine_Learning_Changes_the_Nature_of_Cyberattacks_on_IoT_Networks_A_Survey.pdf
 6. survey/A Survey of IoT-Enabled Cyberattacks Assessing Attack Paths to Critical Infrastructures and Services.pdf
+7. IoT Vulnerability Detection using Featureless LLM CyBert Model.pdf
+8. AttackLLM- LLM-based Attack Pattern Generation for an Industrial Control System.pdf
 
 ### Satellite / Non‑terrestrial Networks
 1. survey/Cybersecurity_of_Satellite_Communications_Systems_A_Comprehensive_Survey_of_the_Space_Ground_and_Links_Segments.pdf
+2. PLLM-CS- Pre-trained Large Language Model (LLM) for cyber threat detection in satellite networks.pdf
+3. Exploring LLM-Based Multi-Agent Situation Awareness for Zero-Trust Space-Air-Ground Integrated Network.pdf
 
 ### MANET / DTN
 *(No specific papers identified from titles)*
@@ -219,7 +209,7 @@
 2. survey/Cyberattacks and Countermeasures for In-Vehicle Networks.pdf
 
 ### UAV Networks
-*(No specific papers identified from titles)*
+1. Net-GPT- A LLM-Empowered Man-in-the-Middle Chatbot for Unmanned Aerial Vehicle.pdf
 
 ### Water Acoustic / Deep‑Sea Networks
 *(No specific papers identified from titles)*
@@ -235,8 +225,9 @@
 3. Assessing AI vs Human-Authored Spear Phishing SMS Attacks- An Empirical Study.pdf
 4. The Shadow of Fraud- The Emerging Danger of AI-powered Social Engineering and its Possible Cure.pdf
 5. On the Feasibility of Fully AI-automated Vishing Attacks.pdf
-6. Anatomy of an AI-powered malicious social botnet.pdf
-7. PhishAgent- A Robust Multimodal Agent for Phishing Webpage Detection.pdf
+6. Anatomy of an AI-powered malicious social botnet.pdf 
+7. PhishAgent- A Robust Multimodal Agent for Phishing Webpage Detection.pdf 
+8. Cyberattacks Using ChatGPT- Exploring Malicious Content Generation Through Prompt Engineering.pdf
 
 ### CDN
 *(Attacks: Poisoning)*
@@ -253,3 +244,5 @@
 
 ### Autonomous Agent Networks
 1. Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities.pdf 
+2. Design and evaluation of an Autonomous Cyber Defence agent using DRL and an augmented LLM.pdf
+3. Emerging Cyber Attack Risks of Medical AI Agents.pdf 

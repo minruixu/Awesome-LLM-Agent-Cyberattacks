@@ -165,4 +165,91 @@
 17. A Survey of IoT-Enabled Cyberattacks Assessing Attack Paths to Critical Infrastructures and Services.pdf
 18. A Survey of Cyber Attacks on Cyber Physical Systems Recent Advances and Challenges.pdf
 19. Generative AI in Cybersecurity A Comprehensive Review of LLM Applications and Vulnerabilities.pdf
-20. When LLMs meet cybersecurity a systematic literature review.pdf 
+20. When LLMs meet cybersecurity a systematic literature review.pdf
+
+# Network Perspective Categorization
+
+## Cyberattack Capabilities of LLMs-based Agents on Static Infrastructure Networks
+
+*(Attacks: Malware, Zero‑Day, DoS)*
+
+### 4G/5G/6G Core&RAN
+*(No specific papers identified from titles)*
+
+### Enterprise LAN/WAN
+1. Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks.pdf
+2. Hackphyr- A Local Fine-Tuned LLM Agent for Network Security Environments.pdf
+
+### Data Center / Public Cloud
+1. LLMCloudHunter- Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI.pdf
+2. Toward Intelligent and Secure Cloud- Large Language Model Empowered Proactive Defense.pdf
+
+### SDN
+*(No specific papers identified from titles)*
+
+### NFV/Service Mesh
+*(No specific papers identified from titles)*
+
+### Smart Grid
+1. survey/Security_of_Wide-Area_Monitoring_Protection_and_Control_WAMPAC_Systems_of_the_Smart_Grid_A_Survey_on_Challenges_and_Opportunities.pdf
+
+### Quantum Networks
+*(No specific papers identified from titles)*
+
+## Cyberattack Capabilities of LLMs-based Agents on Mobile Infrastructure Networks
+
+*(Attacks: MitM, DoS, Malware‑Botnet)*
+
+### IoT/IIOT/Sensor Networks
+1. CHATIOT- Large Language Model-based Security Assistant for Internet of Things with Retrieval-Augmented Generation.pdf
+2. BARTPredict- Empowering IoT Security with LLM-Driven Cyber Threat Prediction.pdf
+3. Beyond Detection- Leveraging Large Language Models for Cyber Attack Prediction in IoT Networks.pdf
+4. LLMPot- Automated LLM-based Industrial Protocol and Physical Process Emulation for ICS Honeypots.pdf
+5. survey/How_Machine_Learning_Changes_the_Nature_of_Cyberattacks_on_IoT_Networks_A_Survey.pdf
+6. survey/A Survey of IoT-Enabled Cyberattacks Assessing Attack Paths to Critical Infrastructures and Services.pdf
+
+### Satellite / Non‑terrestrial Networks
+1. survey/Cybersecurity_of_Satellite_Communications_Systems_A_Comprehensive_Survey_of_the_Space_Ground_and_Links_Segments.pdf
+
+### MANET / DTN
+*(No specific papers identified from titles)*
+
+### V2X
+1. MistralBSM- Leveraging Mistral-7B for Vehicular Networks Misbehavior Detection.pdf
+2. survey/Cyberattacks and Countermeasures for In-Vehicle Networks.pdf
+
+### UAV Networks
+*(No specific papers identified from titles)*
+
+### Water Acoustic / Deep‑Sea Networks
+*(No specific papers identified from titles)*
+
+
+## Cyberattack Capabilities of LLMs-based Agents on Infrastructure-free Networks
+
+*(Attacks: Phishing‑like social engineering, Smart‑Contract Malware, Partition DoS)*
+
+### Social Networks
+1. Exploring the Dark Side of AI- Advanced Phishing Attack Design and Deployment Using ChatGPT.pdf
+2. From Chatbots to PhishBots? - Preventing Phishing scams created using ChatGPT, Google Bard and Claude.pdf
+3. Assessing AI vs Human-Authored Spear Phishing SMS Attacks- An Empirical Study.pdf
+4. The Shadow of Fraud- The Emerging Danger of AI-powered Social Engineering and its Possible Cure.pdf
+5. On the Feasibility of Fully AI-automated Vishing Attacks.pdf
+6. Anatomy of an AI-powered malicious social botnet.pdf
+7. PhishAgent- A Robust Multimodal Agent for Phishing Webpage Detection.pdf
+
+### CDN
+*(Attacks: Poisoning)*
+*(No specific papers identified from titles)*
+
+### Blockchain Networks/Web3
+1. survey/SoK- A Review of Cross-Chain Bridge Hacks in 2023.pdf
+
+### Digital Twin Networks
+*(No specific papers identified from titles)*
+
+### Immersive Networks
+*(No specific papers identified from titles)*
+
+### Autonomous Agent Networks
+1. Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities.pdf 

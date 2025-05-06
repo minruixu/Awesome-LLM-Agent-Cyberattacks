@@ -1,8 +1,14 @@
 # Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks
+![Image 1](image1.png)
 
-## 目录
+With the continuous evolution of Large Language Models (LLMs), LLM-based agents have advanced beyond passive chatbots to become autonomous cyber entities capable of performing complex tasks, including web browsing, malicious code and deceptive content generation, and decision-making. By significantly reducing the time, expertise, and resources required, AI-assisted cyberattacks automated and orchestrated by LLM-based agents are resulting in this phenomenon termed Cyber Threat Inflation from a significant reduction of attack costs and tremendous increase in attack scale. To provide actionable defensive insights, in this survey, we focus on the potential cyber threats posed by LLM-based agents across diverse network systems. Firstly, we present the construction and collaboration capabilities of LLM-based cyberattack agents, which can scout, memorize, reason, and execute autonomous network operations. Building on these capabilities, we examine common cyberattacks initiated by LLM-based agents and compare their effectiveness across static, mobile, and infrastructure-free networks. By analyzing the threat bottlenecks of LLM-based agents across network systems with varying infrastructure types, we review and show that classic defense methods are inadequate due to inherent structural vulnerabilities and operational asymmetries, rendering them ineffective against autonomous cyberattacks by LLM-based agents with minimal human intervention. Finally, the survey outlines future research directions and potential defensive strategies for legacy network systems.
 
-- [I. Introduction](#i-introduction)
+[**Paper Link (arXiv)**](https://arxiv.org/abs/YOUR_PAPER_ID_HERE) | [**Project Page**](YOUR_PROJECT_PAGE_LINK_HERE)
+
+---
+
+## Table of Contents
+
 - [II. Large Language Model-based Agents for Autonomous Cyberattacks](#ii-large-language-model-based-agents-for-autonomous-cyberattacks)
   - [Models](#models)
   - [Perception](#perception)
@@ -40,40 +46,10 @@
   - [Immersive Networks](#e-immersive-networks)
   - [Autonomous Agent Networks](#f-autonomous-agent-networks)
 
-## I. Introduction
-1. Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models.
-2. Progress from our Frontier Red Team.
-3. On the Feasibility of Using LLMs to Execute Multistage Network Attacks.
-4. Leveraging LLMs for Non-Security Experts in Threat Hunting: Detecting Living off the Land Techniques.
-5. Transforming computer security and public trust through the exploration of fine-tuning large language models.
-6. "Do anything now": Characterizing and evaluating in-the-wild jailbreak prompts on large language models.
-7. On large language models in national security applications.
-8. A Framework for Evaluating Emerging Cyberattack Capabilities of AI.
-9. Large Language Models (LLM) for Estimating the Cost of Cyber-attacks.
-10. Cyberattacks using chatgpt: Exploring malicious content generation through prompt engineering.
-11. PentestGPT: Evaluating and harnessing large language models for automated penetration testing.
-12. RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents.
-13. Net-GPT: A LLM-empowered man-in-the-middle chatbot for unmanned aerial vehicle.
-14. Pllm-cs: Pre-trained large language model (llm) for cyber threat detection in satellite networks.
-15. Llmcloudhunter: Harnessing llms for automated extraction of detection rules from cloud-based cti.
-16. Apppoet: Large language model based android malware detection via multi-view prompt engineering.
-17. A survey on large language model based autonomous agents.
-18. Large Language Model Agent: A Survey on Methodology, Applications and Challenges.
-19. From llms to llm-based agents for software engineering: A survey of current, challenges and future.
-20. LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead.
-21. When llms meet cybersecurity: A systematic literature review.
-22. Generative ai and large language models for cyber security: All insights you need.
-23. Large language model for vulnerability detection and repair: Literature review and the road ahead.
-24. Large Language Models and Code Security: A Systematic Literature Review.
-25. SoK: Frontier AI's Impact on the Cybersecurity Landscape.
-26. Exploring llms for malware detection: Review, framework design, and countermeasure approaches.
-27. Large Language Model (LLM) for Software Security: Code Analysis, Malware Analysis, Reverse Engineering.
-28. Large language models in 6g security: challenges and opportunities.
-29. A survey of cyber attacks on cyber physical systems: Recent advances and challenges.
-30. How machine learning changes the nature of cyberattacks on IoT networks: A survey.
-31. A survey on metaverse: Fundamentals, security, and privacy.
+---
 
 ## II. Large Language Model-based Agents for Autonomous Cyberattacks
+![Image 1](image1.png)
 ### Models
 1. Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks
 2. The Best Defense is a Good Offense: Countering LLM-Powered Cyberattacks
@@ -369,3 +345,29 @@
 3. Flooding spread of manipulated knowledge in llm-based multi-agent communities
 4. Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks
 5. Reinforcement learning-driven llm agent for automated attacks on llms
+
+---
+
+### Maintainers
+Minrui Xu
+
+---
+
+### Citation
+If you find this survey useful, please cite our paper:
+
+```bibtex
+@misc{wang2023survey,
+      title={A Survey on Large Language Model based Autonomous Agents}, 
+      author={Lei Wang and Chen Ma and Xueyang Feng and Zeyu Zhang and Hao Yang and Jingsen Zhang and Zhiyuan Chen and Jiakai Tang and Xu Chen and Yankai Lin and Wayne Xin Zhao and Zhewei Wei and Ji-Rong Wen},
+      year={2023},
+      eprint={2308.11432},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+---
+
+### How to Contribute
+If you have a paper or are aware of relevant research that should be incorporated, please contribute via pull requests, issues, email, or other suitable methods.

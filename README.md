@@ -1,5 +1,45 @@
 # Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks
 
+## 目录
+
+- [I. Introduction](#i-introduction)
+- [II. Large Language Model-based Agents for Autonomous Cyberattacks](#ii-large-language-model-based-agents-for-autonomous-cyberattacks)
+  - [Models](#models)
+  - [Perception](#perception)
+  - [Memory](#a2-memory)
+  - [Reasoning and Planning](#a3-reasoning-and-planning)
+  - [Tools and Actions](#a4-tools-and-actions)
+  - [Multi-agent Collaboration](#b-multi-agent-collaboration)
+- [III. Common Cyberattacks and Benchmarks of LLM-based Agents](#iii-common-cyberattacks-and-benchmarks-of-llm-based-agents)
+  - [Cyber Threat Intelligence](#a1-cyber-threat-intelligence)
+  - [Penetration Testing](#a2-penetration-testing)
+  - [Vulnerability Detection](#a3-vulnerability-detection)
+  - [Phishing and Social Engineering](#a4-phishing-and-social-engineering)
+  - [Malware Generation](#b1-malware-generation)
+  - [Vulnerability Exploitation](#b2-vulnerability-exploitation)
+  - [Honeypot Deployment](#b3-honeypot-deployment)
+  - [Capture the Flag Challenges](#b4-capture-the-flag-challenges)
+- [IV. Cyberattack Capabilities of LLM-based Agents on Static Infrastructure Networks](#iv-cyberattack-capabilities-of-llm-based-agents-on-static-infrastructure-networks)
+  - [6G Core & Radio Access Networks](#a-6g-core--radio-access-networks)
+  - [Enterprise Networks](#b-enterprise-networks)
+  - [Software-Defined Networking](#d-software-defined-networking)
+  - [Smart Grids](#e-smart-grids)
+  - [Quantum Networks](#f-quantum-networks)
+- [V. Cyberattack Capabilities of LLM-based Agents on Mobile Infrastructure Networks](#v-cyberattack-capabilities-of-llm-based-agents-on-mobile-infrastructure-networks)
+  - [Internet of Things](#a-internet-of-things)
+  - [Satellite Networks](#b-satellite-networks)
+  - [Mobile Ad-Hoc Networks](#c-mobile-ad-hoc-networks)
+  - [Vehicle Networks](#d-vehicle-networks)
+  - [UAV Networks](#e-uav-networks)
+  - [Underwater Networks](#f-underwater-networks)
+- [VI. Cyberattack Capabilities of LLM-based Agents on Infrastructure-Free Networks](#vi-cyberattack-capabilities-of-llm-based-agents-on-infrastructure-free-networks)
+  - [Social Networks](#a-social-networks)
+  - [Content-Delivery Networks](#b-content-delivery-networks)
+  - [Blockchain Networks](#c-blockchain-networks)
+  - [Digital Twin Networks](#d-digital-twin-networks)
+  - [Immersive Networks](#e-immersive-networks)
+  - [Autonomous Agent Networks](#f-autonomous-agent-networks)
+
 ## I. Introduction
 1. Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models.
 2. Progress from our Frontier Red Team.
@@ -59,7 +99,7 @@
 2. Evaluation of LLM chatbots for OSINT-based cyber threat awareness
 3. Cyberpal. ai: Empowering llms with expert-driven cybersecurity instructions
 
-### A(2). Memory
+### A2. Memory
 
 1. A survey on large language model based autonomous agents
 2. Large language model-based agents for software engineering: A survey
@@ -76,7 +116,7 @@
 13. CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity
 
 
-### A(3). Reasoning and Planning
+### A3. Reasoning and Planning
 
 1. Chain-of-thought prompting elicits reasoning in large language models
 2. Building Cyber Attack Trees with the Help of My LLM? A Mixed Method Study
@@ -91,7 +131,7 @@
 11. Lora: Low-rank adaptation of large language models.
 
 
-### A(4). Tools and Actions
+### A4. Tools and Actions
 
 1. When llms meet cybersecurity: A systematic literature review
 2. Toolllm: Facilitating large language models to master 16000+ real-world apis
@@ -111,7 +151,7 @@
 5. Reinforcement learning-driven llm agent for automated attacks on llms
 
 ## III. Common Cyberattacks and Benchmarks of LLM-based Agents
-### A(1). Cyber Threat Intelligence
+### A1. Cyber Threat Intelligence
 1. Using llms to automate threat intelligence analysis workflows in security operation centers
 2. Actionable cyber threat intelligence using knowledge graphs and large language models
 3. Cyber knowledge completion using large language models
@@ -120,7 +160,8 @@
 6. Using llms to automate threat intelligence analysis workflows in security operation centers
 7. The use of large language models (llm) for cyber threat intelligence (cti) in cybercrime forums
 8. Ctibench: A benchmark for evaluating llms in cyber threat intelligence
-### A(2). Penetration Testing
+
+### A2. Penetration Testing
 1. Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing
 2. PentestAgent: Incorporating LLM Agents to Automated Penetration Testing
 3. ARACNE: An LLM-Based Autonomous Shell Pentesting Agent
@@ -142,7 +183,7 @@
 19. Towards automated penetration testing: Introducing llm benchmark, analysis, and improvements
 20. HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing
 
-### A(3). Vulnerability Detection
+### A3. Vulnerability Detection
 1. Lprotector: An llm-driven vulnerability detection system
 2. WitheredLeaf: Finding Entity-Inconsistency Bugs with LLMs
 3. Assessing cybersecurity vulnerabilities in code large language models
@@ -152,7 +193,7 @@
 7. GRACE: Empowering LLM-based software vulnerability detection with graph structure and in-context learning
 8. Guessing as a service: Large language models are not yet ready for vulnerability detection
 
-### A(4). Phishing and Social Engineering
+### A4. Phishing and Social Engineering
 1. Assessing AI vs human-authored spear phishing sms attacks: An empirical study using the trapd method
 2. Cyberattacks using chatgpt: Exploring malicious content generation through prompt engineering
 3. Exploring the dark side of ai: Advanced phishing attack design and deployment using chatgpt
@@ -166,7 +207,7 @@
 11. Defending against social engineering attacks in the age of llms
 12. Personalized Attacks of Social Engineering in Multi-turn Conversations--LLM Agents for Simulation and Detection
 
-### B(1). Malware Generation
+### B1. Malware Generation
 1. From llms to llm-based agents for software engineering: A survey of current, challenges and future
 2. LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision and the Road Ahead
 3. Wormgpt: a large language model chatbot for criminals
@@ -179,7 +220,7 @@
 10. Redcode: Risky code execution and generation benchmark for code agents
 11. RedCodeAgent: Automatic Red-teaming Agent against Code Agents
 
-### B(2). Vulnerability Exploitation
+### B2. Vulnerability Exploitation
 
 1. Leveraging llm for zero-day exploit detection in cloud networks
 2. Llm agents can autonomously exploit one-day vulnerabilities
@@ -189,7 +230,7 @@
 6. Vul-rag: Enhancing llm-based vulnerability detection via knowledge-level rag
 7. CVE-LLM: Automatic vulnerability evaluation in medical device industry using large language models
 
-### B(3). Honeypot Deployment
+### B3. Honeypot Deployment
 
 1. Act as a honeytoken generator! an investigation into honeytoken generation with large language models
 2. HoneyLLM: A Large Language Model-Powered Medium-Interaction Honeypot
@@ -198,7 +239,7 @@
 5. Llmpot: Automated llm-based industrial protocol and physical process emulation for ics honeypots
 6. LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild
 
-### B(4). Capture the Flag Challenges
+### B4. Capture the Flag Challenges
 
 1. Using large language models for cybersecurity capture-the-flag challenges and certification questions
 2. Hacking CTFs with Plain Agents
@@ -296,7 +337,7 @@
 3. Creation and management of social network honeypots for detecting targeted cyber attacks
 4. Stopping the cyberattack in the early stage: assessing the security risks of social network users
 
-### B. Content‑Delivery Networks
+### B. Content-Delivery Networks
 
 1. Infrastructure upgrade framework for content delivery networks robust to targeted attacks
 2. DDoS Attack Information Sharing Among CDNs Interconnected Through CDNI

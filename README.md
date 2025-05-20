@@ -9,6 +9,8 @@ With the continuous evolution of Large Language Models (LLMs), LLM-based agents 
 
 ## Table of Contents
 
+![Image 2](overview.png  =200x)
+
 - [II. Large Language Model-based Agents for Autonomous Cyberattacks](#ii-large-language-model-based-agents-for-autonomous-cyberattacks)
   - [Models](#models)
   - [Perception](#perception)
@@ -46,7 +48,6 @@ With the continuous evolution of Large Language Models (LLMs), LLM-based agents 
   - [Immersive Networks](#e-immersive-networks)
   - [Autonomous Agent Networks](#f-autonomous-agent-networks)
 
-![Image 2](overview.png)
 ---
 
 ## II. Large Language Model-based Agents for Autonomous Cyberattacks

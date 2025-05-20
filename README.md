@@ -1,9 +1,9 @@
 # Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks
-![Image 1](image1.png)
+![Image 1](roadmap.png)
 
-With the continuous evolution of Large Language Models (LLMs), LLM-based agents have advanced beyond passive chatbots to become autonomous cyber entities capable of performing complex tasks, including web browsing, malicious code and deceptive content generation, and decision-making. By significantly reducing the time, expertise, and resources required, AI-assisted cyberattacks automated and orchestrated by LLM-based agents are resulting in this phenomenon termed Cyber Threat Inflation from a significant reduction of attack costs and tremendous increase in attack scale. To provide actionable defensive insights, in this survey, we focus on the potential cyber threats posed by LLM-based agents across diverse network systems. Firstly, we present the construction and collaboration capabilities of LLM-based cyberattack agents, which can scout, memorize, reason, and execute autonomous network operations. Building on these capabilities, we examine common cyberattacks initiated by LLM-based agents and compare their effectiveness across static, mobile, and infrastructure-free networks. By analyzing the threat bottlenecks of LLM-based agents across network systems with varying infrastructure types, we review and show that classic defense methods are inadequate due to inherent structural vulnerabilities and operational asymmetries, rendering them ineffective against autonomous cyberattacks by LLM-based agents with minimal human intervention. Finally, the survey outlines future research directions and potential defensive strategies for legacy network systems.
+With the continuous evolution of Large Language Models (LLMs), LLM-based agents have advanced beyond passive chatbots to become autonomous cyber entities capable of performing complex tasks, including web browsing, malicious code and deceptive content generation, and decision-making. By significantly reducing the time, expertise, and resources, AI-assisted cyberattacks orchestrated by LLM-based agents have led to a phenomenon termed Cyber Threat Inflation, characterized by a significant reduction in attack costs and a tremendous increase in attack scale. To provide actionable defensive insights, in this survey, we focus on the potential cyber threats posed by LLM-based agents across diverse network systems.  Firstly, we present the capabilities of LLM-based cyberattack agents, which include executing autonomous attack strategies, comprising scouting, memory, reasoning, and action, and facilitating collaborative operations with other agents or human operators.  Building on these capabilities, we examine common cyberattacks initiated by LLM-based agents and compare their effectiveness across different types of networks, including static, mobile, and infrastructure-free paradigms. Moreover, we analyze threat bottlenecks of LLM-based agents across different network infrastructures and review their defense methods. Due to operational imbalances, existing defense methods are inadequate against autonomous cyberattacks. Finally, we outline future research directions and potential defensive strategies for legacy network systems.
 
-[**Paper Link (arXiv)**](https://arxiv.org/abs/YOUR_PAPER_ID_HERE) | [**Project Page**](YOUR_PROJECT_PAGE_LINK_HERE)
+[**Paper Link (arXiv)**]([https://arxiv.org/abs/YOUR_PAPER_ID_HERE](https://arxiv.org/abs/2505.12786))
 
 ---
 
@@ -46,10 +46,11 @@ With the continuous evolution of Large Language Models (LLMs), LLM-based agents 
   - [Immersive Networks](#e-immersive-networks)
   - [Autonomous Agent Networks](#f-autonomous-agent-networks)
 
+![Image 2](overview.png)
 ---
 
 ## II. Large Language Model-based Agents for Autonomous Cyberattacks
-![Image 1](image1.png)
+![Image 3](attagent.png)
 ### Models
 1. Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks | [Paper Link](https://arxiv.org/abs/2410.20911)
 2. The Best Defense is a Good Offense: Countering LLM-Powered Cyberattacks | [Paper Link](https://arxiv.org/abs/2410.15396)
@@ -340,6 +341,8 @@ With the continuous evolution of Large Language Models (LLMs), LLM-based agents 
 
 ### Maintainers
 Minrui Xu
+Jiani Fan
+Xinyu Huang
 
 ---
 
@@ -347,13 +350,14 @@ Minrui Xu
 If you find this survey useful, please cite our paper:
 
 ```bibtex
-@misc{wang2023survey,
-      title={A Survey on Large Language Model based Autonomous Agents}, 
-      author={Lei Wang and Chen Ma and Xueyang Feng and Zeyu Zhang and Hao Yang and Jingsen Zhang and Zhiyuan Chen and Jiakai Tang and Xu Chen and Yankai Lin and Wayne Xin Zhao and Zhewei Wei and Ji-Rong Wen},
-      year={2023},
-      eprint={2308.11432},
+@misc{xu2025forewarnedforearmedsurveylarge,
+      title={Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks}, 
+      author={Minrui Xu and Jiani Fan and Xinyu Huang and Conghao Zhou and Jiawen Kang and Dusit Niyato and Shiwen Mao and Zhu Han and Xuemin and Shen and Kwok-Yan Lam},
+      year={2025},
+      eprint={2505.12786},
       archivePrefix={arXiv},
-      primaryClass={cs.AI}
+      primaryClass={cs.NI},
+      url={https://arxiv.org/abs/2505.12786}, 
 }
 ```
 

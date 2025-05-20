@@ -340,9 +340,12 @@ With the continuous evolution of Large Language Models (LLMs), LLM-based agents 
 ---
 
 ### Maintainers
-Minrui Xu
-Jiani Fan
-Xinyu Huang
+
+Minrui Xu <a href="MINRUI001@e.ntu.edu.sg">MINRUI001@e.ntu.edu.sg</a>
+
+Jiani Fan <a href="jiani001@e.ntu.edu.sg">JIANI001@e.ntu.edu.sg</a>
+
+Xinyu Huang <a href="x357huan@uwaterloo.ca">x357huan@uwaterloo.ca</a>
 
 ---
 

@@ -8,8 +8,9 @@ With the continuous evolution of Large Language Models (LLMs), LLM-based agents 
 ---
 
 ## Table of Contents
-
-![Image 2](overview.png =200x300)
+<center class ='img'>
+<img title="Image 2" src="overview.png" width="100%">
+</center>
 
 - [II. Large Language Model-based Agents for Autonomous Cyberattacks](#ii-large-language-model-based-agents-for-autonomous-cyberattacks)
   - [Models](#models)

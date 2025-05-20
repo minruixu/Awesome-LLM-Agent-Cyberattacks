@@ -357,7 +357,7 @@ If you find this survey useful, please cite our paper:
 ```bibtex
 @misc{xu2025forewarnedforearmedsurveylarge,
       title={Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks}, 
-      author={Minrui Xu and Jiani Fan and Xinyu Huang and Conghao Zhou and Jiawen Kang and Dusit Niyato and Shiwen Mao and Zhu Han and Xuemin and Shen and Kwok-Yan Lam},
+      author={Xu, Minrui and Fan, Jiani and Huang, Xinyu and Zhou, Conghao and Kang, Jiawen and Niyato, Dusit and Mao, Shiwen and Han, Zhu and Shen, Xuemin (Sherman) and Lam, Kwok-Yan},
       year={2025},
       eprint={2505.12786},
       archivePrefix={arXiv},

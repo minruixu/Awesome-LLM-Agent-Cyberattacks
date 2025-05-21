@@ -355,14 +355,11 @@ Xinyu Huang <a href="x357huan@uwaterloo.ca">x357huan@uwaterloo.ca</a>
 If you find this survey useful, please cite our paper:
 
 ```bibtex
-@misc{xu2025forewarnedforearmedsurveylarge,
+@article{xu2025forewarnedforearmedsurveylarge,
       title={Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks}, 
       author={Xu, Minrui and Fan, Jiani and Huang, Xinyu and Zhou, Conghao and Kang, Jiawen and Niyato, Dusit and Mao, Shiwen and Han, Zhu and Shen, Xuemin (Sherman) and Lam, Kwok-Yan},
+      journal = {arXiv preprint arXiv:2505.12786},
       year={2025},
-      eprint={2505.12786},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI},
-      url={https://arxiv.org/abs/2505.12786}, 
 }
 ```
 
